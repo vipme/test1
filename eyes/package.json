@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Alexis Sellier",
+    "email": "self@cloudhead.net"
+  },
+  "description": "a customizable value inspector",
+  "directories": {
+    "lib": "./lib",
+    "test": "./test"
+  },
+  "engines": {
+    "node": "> 0.1.90"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "main": "./lib/eyes",
+  "name": "eyes",
+  "url": "http://github.com/cloudhead/eyes.js",
+  "version": "0.1.8"
+}
