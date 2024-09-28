@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "balanced-match": "^1.0.0",
-    "concat-map": "0.0.1"
+    "concat-map": "0.0.2"
   },
   "description": "Brace expansion as known from sh/bash",
   "devDependencies": {
