@@ -4,7 +4,7 @@
     "email": "charlie.robbins@gmail.com"
   },
   "dependencies": {
-    "async": "~1.0.0",
+    "async": "~1.5.2",
     "colors": "1.0.x",
     "cycle": "1.0.x",
     "eyes": "0.1.x",
